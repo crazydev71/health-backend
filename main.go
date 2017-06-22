@@ -4,9 +4,9 @@ import (
 	"flag"
 	"net/http"
 
-	"server/apihandlers"
-	"server/healthgraphql"
-	"server/utils"
+	"github.com/crazydev71/health-backend/apihandlers"
+	"github.com/crazydev71/health-backend/healthgraphql"
+	"github.com/crazydev71/health-backend/utils"
 	log "github.com/Sirupsen/logrus"
 	"github.com/gorilla/mux"
 	"github.com/graphql-go/handler"
