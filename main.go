@@ -1,4 +1,4 @@
-package main //import "github.com/MaximeHeckel/healthDashboard/go/src/server"
+package main
 
 import (
 	"flag"
